@@ -1410,8 +1410,8 @@
 .ভাৰত|country-code|National Internet eXchange of India
 .ভারত|country-code|National Internet Exchange of India
 .八卦|generic|Zodiac Gemini Ltd
-‏.ישראל‎|country-code|The Israel Internet Association (RA)
-‏.موقع‎|generic|Suhub Electronic Establishment
+.ישראל|country-code|The Israel Internet Association (RA)
+.موقع|generic|Suhub Electronic Establishment
 .বাংলা|country-code|Posts and Telecommunications Division
 .公益|generic|China Organizational Name Administration Center
 .公司|generic|Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
@@ -1429,7 +1429,7 @@
 .срб|country-code|Serbian National Internet Domain Registry (RNIDS)
 .бг|country-code|Imena.BG AD
 .бел|country-code|Reliable Software, Ltd.
-.קום‎|generic|VeriSign Sarl
+.קום|generic|VeriSign Sarl
 .时尚|generic|RISE VICTORY LIMITED
 .微博|generic|Sina Corporation
 .테스트|test|Internet Assigned Numbers Authority
@@ -1446,13 +1446,13 @@
 .商城|generic|Zodiac Aquarius Limited
 .дети|generic|The Foundation for Network Initiatives “The Smart Internet”
 .мкд|country-code|Macedonian Academic Research Network Skopje
-.טעסט‎|test|Internet Assigned Numbers Authority
+.טעסט|test|Internet Assigned Numbers Authority
 .ею|country-code|EURid vzw/asbl
 .ポイント|generic|Amazon Registry Services, Inc.
 .新闻|generic|Guangzhou YU Wei Information and Technology Co.,Ltd
 .工行|generic|Not assigned
 .家電|generic|Amazon Registry Services, Inc.
-.كوم‎|generic|VeriSign Sarl
+.كوم|generic|VeriSign Sarl
 .中文网|generic|TLD REGISTRY LIMITED
 .中信|generic|CITIC Group Corporation
 .中国|country-code|China Internet Network Information Center (CNNIC)
@@ -1470,7 +1470,7 @@
 .भारतम्|country-code|National Internet eXchange of India
 .भारत|country-code|National Internet Exchange of India
 .भारोत|country-code|National Internet eXchange of India
-.آزمایشی‎|test|Internet Assigned Numbers Authority
+.آزمایشی|test|Internet Assigned Numbers Authority
 .பரிட்சை|test|Internet Assigned Numbers Authority
 .网店|generic|Zodiac Taurus Ltd.
 .संगठन|generic|Public Interest Registry
@@ -1484,53 +1484,53 @@
 .食品|generic|Amazon Registry Services, Inc.
 .δοκιμή|test|Internet Assigned Numbers Authority
 .飞利浦|generic|Koninklijke Philips N.V.
-.إختبار‎|test|Internet Assigned Numbers Authority
+.إختبار|test|Internet Assigned Numbers Authority
 .台湾|country-code|Taiwan Network Information Center (TWNIC)
 .台灣|country-code|Taiwan Network Information Center (TWNIC)
 .手表|generic|Not assigned
 .手机|generic|Beijing RITT-Net Technology Development Co., Ltd
 .мон|country-code|Datacom Co.,Ltd
 .الجزائر|country-code|CERIST
-.عمان‎|country-code|Telecommunications Regulatory Authority (TRA)
-.ارامكو‎|generic|Aramco Services Company
+.عمان|country-code|Telecommunications Regulatory Authority (TRA)
+.ارامكو|generic|Aramco Services Company
 .ایران|country-code|Institute for Research in Fundamental Sciences (IPM)
-.العليان‎|generic|Crescent Holding GmbH
-.اتصالات‎|generic|Emirates Telecommunications Corporation (trading as Etisalat)
-.امارات‎|country-code|Telecommunications Regulatory Authority (TRA)
-.بازار‎|generic|CORE Association
-.موريتانيا‎|country-code|Université de Nouakchott Al Aasriya
-.پاکستان‎|country-code|National Telecommunication Corporation
-.الاردن‎|country-code|Ministry of Digital Economy and Entrepreneurship (MoDEE)
-.موبايلي‎|generic|Not assigned
-.بارت‎|country-code|National Internet eXchange of India
-.بھارت‎|country-code|National Internet Exchange of India
-.المغرب‎|country-code|Agence Nationale de Réglementation des Télécommunications (ANRT)
-.ابوظبي‎|generic|Abu Dhabi Systems and Information Centre
-.البحرين‎|country-code|Telecommunications Regulatory Authority (TRA)
-.السعودية‎|country-code|Communications and Information Technology Commission
-.ڀارت‎|country-code|National Internet eXchange of India
-.كاثوليك‎|generic|Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-.سودان‎|country-code|Sudan Internet Society
-.همراه‎|generic|Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-.عراق‎|country-code|Communications and Media Commission (CMC)
-.مليسيا‎|country-code|MYNIC Berhad
+.العليان|generic|Crescent Holding GmbH
+.اتصالات|generic|Emirates Telecommunications Corporation (trading as Etisalat)
+.امارات|country-code|Telecommunications Regulatory Authority (TRA)
+.بازار|generic|CORE Association
+.موريتانيا|country-code|Université de Nouakchott Al Aasriya
+.پاکستان|country-code|National Telecommunication Corporation
+.الاردن|country-code|Ministry of Digital Economy and Entrepreneurship (MoDEE)
+.موبايلي|generic|Not assigned
+.بارت|country-code|National Internet eXchange of India
+.بھارت|country-code|National Internet Exchange of India
+.المغرب|country-code|Agence Nationale de Réglementation des Télécommunications (ANRT)
+.ابوظبي|generic|Abu Dhabi Systems and Information Centre
+.البحرين|country-code|Telecommunications Regulatory Authority (TRA)
+.السعودية|country-code|Communications and Information Technology Commission
+.ڀارت|country-code|National Internet eXchange of India
+.كاثوليك|generic|Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+.سودان|country-code|Sudan Internet Society
+.همراه|generic|Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+.عراق|country-code|Communications and Media Commission (CMC)
+.مليسيا|country-code|MYNIC Berhad
 .澳門|country-code|Macao Post and Telecommunications Bureau (CTT)
 .닷컴|generic|VeriSign Sarl
 .政府|generic|Net-Chinese Co., Ltd.
-.شبكة‎|generic|International Domain Registry Pty. Ltd.
-.بيتك‎|generic|Kuwait Finance House
-.عرب‎|generic|League of Arab States
+.شبكة|generic|International Domain Registry Pty. Ltd.
+.بيتك|generic|Kuwait Finance House
+.عرب|generic|League of Arab States
 .გე|country-code|Information Technologies Development Center (ITDC)
 .机构|generic|Public Interest Registry
 .组织机构|generic|Public Interest Registry
 .健康|generic|Stable Tone Limited
 .ไทย|country-code|Thai Network Information Center Foundation
-.سورية‎|country-code|National Agency for Network Services (NANS)
+.سورية|country-code|National Agency for Network Services (NANS)
 .招聘|generic|Dot Trademark TLD Holding Company Limited
 .рус|generic|Rusnames Limited
 .рф|country-code|Coordination Center for TLD RU
 .珠宝|generic|Not assigned
-.تونس‎|country-code|Agence Tunisienne d'Internet
+.تونس|country-code|Agence Tunisienne d'Internet
 .大拿|generic|VeriSign Sarl
 .ລາວ|country-code|Lao National Internet Center (LANIC)
 .みんな|generic|Charleston Road Registry Inc.
@@ -1553,13 +1553,13 @@
 .嘉里大酒店|generic|Kerry Trading Co. Limited
 .嘉里|generic|Kerry Trading Co. Limited
 .مصر |country-code|National Telecommunication Regulatory Authority - NTRA
-.قطر‎|country-code|Communications Regulatory Authority
+.قطر|country-code|Communications Regulatory Authority
 .广东|generic|Guangzhou YU Wei Information Technology Co., Ltd.
 .இலங்கை|country-code|LK Domain Registry
 .இந்தியா|country-code|National Internet Exchange of India
 .հայ|country-code|"Internet Society" Non-governmental Organization
 .新加坡|country-code|Singapore Network Information Centre (SGNIC) Pte Ltd
-.فلسطين‎|country-code|Ministry of Telecom & Information Technology (MTIT)
+.فلسطين|country-code|Ministry of Telecom & Information Technology (MTIT)
 .テスト|test|Internet Assigned Numbers Authority
 .政务|generic|China Organizational Name Administration Center
 .xperia|generic|Not assigned
