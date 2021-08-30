@@ -1,0 +1,11 @@
+.net.pa
+.com.pa
+.ac.pa
+.sld.pa
+.gob.pa
+.edu.pa
+.org.pa
+.abo.pa
+.ing.pa
+.med.pa
+.nom.pa
