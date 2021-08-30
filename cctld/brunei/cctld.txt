@@ -1,0 +1,5 @@
+.com.bn
+.edu.bn
+.gov.bn
+.net.bn
+.org.bn
