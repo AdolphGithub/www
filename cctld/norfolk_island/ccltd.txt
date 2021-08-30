@@ -1,0 +1,11 @@
+.com.nf
+.net.nf
+.arts.nf
+.store.nf
+.web.nf
+.firm.nf
+.info.nf
+.other.nf
+.per.nf
+.rec.nf
+.co.nf

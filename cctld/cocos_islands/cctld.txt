@@ -1,0 +1,9 @@
+.gov.cu.cc
+.com.cc
+.net.cc
+.edu.cc
+.org.cc
+.cc.cc
+.co.cc
+.cu.cc
+.cz.cc

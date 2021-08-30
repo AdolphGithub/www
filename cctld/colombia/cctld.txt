@@ -1,0 +1,9 @@
+.com.co
+.org.co
+.edu.co
+.gov.co
+.net.co
+.mil.co
+.nom.co
+.ngo.co
+.inf.co

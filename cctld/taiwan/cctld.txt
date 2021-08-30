@@ -1,0 +1,10 @@
+.edu.tw
+.gov.tw
+.mil.tw
+.com.tw
+.net.tw
+.org.tw
+.idv.tw
+.game.tw
+.ebiz.tw
+.club.tw

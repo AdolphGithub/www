@@ -1,7 +1,7 @@
-co.sh
-com.sh
-org.sh
-gov.sh
-edu.sh
-net.sh
-nom.sh
+.co.sh
+.com.sh
+.org.sh
+.gov.sh
+.edu.sh
+.net.sh
+.nom.sh
