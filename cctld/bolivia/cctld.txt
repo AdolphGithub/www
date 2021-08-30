@@ -1,0 +1,8 @@
+.com.bo
+.net.bo
+.org.bo
+.tv.bo
+.mil.bo
+.int.bo
+.gob.bo
+.edu.bo

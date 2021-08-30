@@ -1,0 +1,14 @@
+.amb-name.ga
+.ch-name.ga
+.chu-name.ga
+.ot-name.ga
+.univ-name.ga
+.cci-name.ga
+.mairie-name.ga
+.gouv.ga
+.org.ga
+.co.ga
+.edu.ga
+.ed.ga
+.ac.ga
+.univ.ga

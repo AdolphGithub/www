@@ -1,0 +1,16 @@
+.org.ci
+.or.ci
+.com.ci
+.co.ci
+.edu.ci
+.ed.ci
+.ac.ci
+.net.ci
+.go.ci
+.int.ci
+.amb-name.ci
+.chu-name.ci
+.ot-name.ci
+.univ-name.ci
+.cci-name.ci
+.mairie-name.ci

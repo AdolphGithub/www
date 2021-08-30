@@ -1,0 +1,3 @@
+.com.ph
+.net.ph
+.org.ph
