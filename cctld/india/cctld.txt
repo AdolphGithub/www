@@ -1,0 +1,16 @@
+.co.in
+.firm.in
+.net.in
+.org.in
+.gen.in
+.ind.in
+.erent.in
+.ac.in
+.edu.in
+.res.in
+.gov.in
+.mil.in
+.nic.in
+.कंपनी.भारत
+.विद्या.भारत
+.सरकार.भारत
