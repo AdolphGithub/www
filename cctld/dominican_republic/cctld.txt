@@ -1,0 +1,9 @@
+.art.do
+.com.do
+.edu.do
+.gob.do
+.gov.do
+.mil.do
+.net.do
+.org.do
+.sld.do
