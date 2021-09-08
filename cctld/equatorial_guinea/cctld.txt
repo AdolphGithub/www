@@ -1,0 +1,6 @@
+.org.gq
+.gov.gq
+.edu.gq
+.mil.gq
+.com.gq
+.univ.gq

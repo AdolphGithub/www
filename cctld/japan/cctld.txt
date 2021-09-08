@@ -1,0 +1,10 @@
+.ac.jp
+.ad.jp
+.co.jp
+.ed.jp
+.go.jp
+.gr.jp
+.lg.jp
+.ne.jp
+.or.jp
+.metro.tokyo.jp
