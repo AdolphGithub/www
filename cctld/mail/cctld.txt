@@ -1,0 +1,5 @@
+.net.ml
+.org.ml
+.edu.ml
+.gov.ml
+.presse.ml

@@ -1,0 +1,8 @@
+.ac.ir
+.co.ir
+.gov.ir
+.id.ir
+.net.ir
+.org.ir
+.sch.ir
+.dnssec.ir
