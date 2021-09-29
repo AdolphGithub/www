@@ -22,6 +22,7 @@ ai.baidu.com => baidu.com
 ### 目录结构说明
 ```
 ├── cctld   // 地区性域名
+├── data    // 未整理的原始数据
 ├── gtld    // 顶级域名
 └── readme.md
 ```
